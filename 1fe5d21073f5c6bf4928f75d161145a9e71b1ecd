@@ -1,0 +1,1 @@
+{"jobID":"8d1f8cb0-f7ad-04f2-81d9-d561e094988d","spec":{"type":"policy","cause":{"Message":"","User":"Archie \u003ca.edwaar@gmail.com\u003e"},"spec":{"ae:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
